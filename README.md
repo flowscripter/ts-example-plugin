@@ -41,10 +41,10 @@ Lint: `npm run lint`
 
 Explanation of project configuration files:
 
-* `.editorconfig` - Configures [EditorConfig](https://editorconfig.org) compliant editors
-* `.eslintrc.js` - TypeScript based [ESLint](https://eslint.org) configuration for the project derived from [@flowscripter/eslint-config](https://www.npmjs.com/package/@flowscripter/eslint-config)
-* `.gitignore` - Specifies files for git to [ignore](https://git-scm.com/docs/gitignore) 
-* `.huskyrc.js` - Provides git hooks using [Husky](https://github.com/typicode/husky) to enforce semantic commit messages, linting and unit testing.   
+* `.editorconfig` - Configures [EditorConfig](https://editorconfig.org) compliant editors.
+* `.eslintrc.js` - TypeScript based [ESLint](https://eslint.org) configuration for the project derived from [@flowscripter/eslint-config](https://www.npmjs.com/package/@flowscripter/eslint-config).
+* `.gitignore` - Specifies files for git to [ignore](https://git-scm.com/docs/gitignore). 
+* `.huskyrc.js` - Provides git hooks using [Husky](https://github.com/typicode/husky) to enforce semantic commit messages and linting.   
 * `.travis.yml` - Defines the [Travis](https://travis-ci.com) build pipeline.
 * `commitlint.config.js` - Configures [commitlint](https://conventional-changelog.github.io/commitlint) to ensure commit messages can be used to drive automated [Semantic Version](https://semver.org) releases.
 * `package.js` - Defines development cycle scripts and configures publication of ES2015 modules. 
