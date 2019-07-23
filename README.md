@@ -8,7 +8,7 @@
 
 ## Overview
 
-`ExtensionPointA.ts` defines an example example extension point ID `EXTENSION_POINT_A_ID` and a TypeScript interface for it. 
+`ExtensionPointA.ts` defines an example extension point ID `EXTENSION_POINT_A_ID` and a TypeScript interface for it. 
 In a real world scenario this would likely be imported from a host application API module.
 
 `PluginA.ts` provides an extension implementing the Extension Point `EXTENSION_POINT_A_ID` and provides the required implementation
