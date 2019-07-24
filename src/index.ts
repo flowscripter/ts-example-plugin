@@ -1,1 +1,1 @@
-export default './PluginA';
+export { default } from './PluginA';
