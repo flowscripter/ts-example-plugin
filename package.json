@@ -43,7 +43,7 @@
         "@commitlint/cli": "8.0.0",
         "@commitlint/config-conventional": "8.0.0",
         "@flowscripter/eslint-config": "1.2.12",
-        "@flowscripter/tsconfig": "1.1.1",
+        "@flowscripter/tsconfig": "1.1.2",
         "@types/debug": "4.1.4",
         "@typescript-eslint/eslint-plugin": "1.11.0",
         "@typescript-eslint/parser": "1.11.0",
