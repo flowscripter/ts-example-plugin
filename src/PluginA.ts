@@ -1,3 +1,5 @@
+/* eslint-disable max-classes-per-file */
+
 import Debug from 'debug';
 import { ExtensionFactory, ExtensionDescriptor, Plugin } from '@flowscripter/esm-dynamic-plugins';
 import ExtensionPointA, { EXTENSION_POINT_A_ID } from './ExtensionPointA';
