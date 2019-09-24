@@ -10,7 +10,7 @@ import tempDir from 'temp-dir';
 module.exports = [
     {
         input: {
-            index: 'src/index.ts'
+            node: 'src/index.ts'
         },
         output: {
             dir: 'dist',
